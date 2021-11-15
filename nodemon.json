@@ -1,0 +1,6 @@
+{
+    "wathc": ["app/**/*.ts", "utils/**/*.ts", "./app.ts", "./tsconfig.json", "./.env"],
+    "ignore": ["node_modules"],
+    "exec": "ts-node app.ts",
+    "ext": ".ts"
+}
